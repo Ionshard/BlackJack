@@ -1,5 +1,27 @@
+# BlackJack
 
-## Black Jack
+Simple project for practicing C# by making BlackJack!
+
+## TODO List
+ 1. ~Card with value~
+ 1. ~Deck gives cards~
+ 1. ~Hand gets cards~ 
+ 1. ~Hand has a total~
+ 1. ~Player has a hand~
+ 1. ~Player can get new cards~
+ 1. ~Player can hit or stay~
+ 1. ~Player can bust~
+ 1. ~Implement simple player run dealer~
+ 1. Override dealer's Deal functionality to automate
+ 1. Dealer must draw on all 16s and stay on all 17s
+ 1. Refactor bad nested if logic in Game's Play function
+ 1. Give dealer first card before player plays
+ 1. Update deck to handle have 52 cards.
+ 1. Add Ace card 11/1 handling. (Harder)
+ 1. Add betting (Long and kinda hard)
+
+
+## Planning
 
 ### Features
 
@@ -76,7 +98,3 @@
 #### Deck
  * Get a new Card
  
-## TODO List
- 1. -Card with value-
- 3. -Deck gives cards-
- 2. -Hand gets cards- 
