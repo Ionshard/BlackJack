@@ -3,15 +3,15 @@
 Simple project for practicing C# by making BlackJack!
 
 ## TODO List
- 1. ~Card with value~
- 1. ~Deck gives cards~
- 1. ~Hand gets cards~ 
- 1. ~Hand has a total~
- 1. ~Player has a hand~
- 1. ~Player can get new cards~
- 1. ~Player can hit or stay~
- 1. ~Player can bust~
- 1. ~Implement simple player run dealer~
+ 1. ~~Card with value~~
+ 1. ~~Deck gives cards~~
+ 1. ~~Hand gets cards~~ 
+ 1. ~~Hand has a total~~
+ 1. ~~Player has a hand~~
+ 1. ~~Player can get new cards~~
+ 1. ~~Player can hit or stay~~
+ 1. ~~Player can bust~~
+ 1. ~~Implement simple player run dealer~~
  1. Override dealer's Deal functionality to automate
  1. Dealer must draw on all 16s and stay on all 17s
  1. Refactor bad nested if logic in Game's Play function
