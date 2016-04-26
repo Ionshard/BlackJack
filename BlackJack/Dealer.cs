@@ -3,6 +3,11 @@ namespace BlackJack {
     class Dealer : Player {
         public Dealer() : base() {}
 
-        //TODO Override the Dealer's Deal Method to Automate
+        public override Hand Deal(Deck deck){
+            while(hand.Total() < 17){
+                DealCards(1, deck);
+            }
+            return hand;
+        }
     }
 }
