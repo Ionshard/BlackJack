@@ -12,9 +12,9 @@ Simple project for practicing C# by making BlackJack!
  1. ~~Player can hit or stay~~
  1. ~~Player can bust~~
  1. ~~Implement simple player run dealer~~
- 1. Override dealer's Deal functionality to automate
- 1. Dealer must draw on all 16s and stay on all 17s
- 1. Refactor bad nested if logic in Game's Play function
+ 1. ~~Override dealer's Deal functionality to automate~~
+ 1. ~~Dealer must draw on all 16s and stay on all 17s~~
+ 1. ~~Refactor bad nested if logic in Game's Play function~~
  1. Give dealer first card before player plays
  1. Update deck to handle have 52 cards.
  1. Add Ace card 11/1 handling. (Harder)
