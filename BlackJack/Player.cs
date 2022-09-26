@@ -1,13 +1,13 @@
 using System;
 namespace BlackJack {
     class Player {
-        private Hand hand;
+        protected Hand hand;
 
         public Player() {
             hand = new Hand();
         }
 
-        public Hand Deal(Deck deck){
+        public virtual Hand Deal(Deck deck){
             DealCards(2, deck);
             Console.WriteLine();
 
